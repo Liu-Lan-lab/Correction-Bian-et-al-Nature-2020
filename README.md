@@ -9,11 +9,11 @@ After carefully checking the raw data, this figure has been corrected now (Fig.2
 Fig.1|The number annotation of mast cell and MkP was reverse.
 
 
-![image](https://github.com/Liu-Lan-lab/Correction-Bian-et-al-Nature-2020/blob/master/wrong_image.png?raw=true)
+![image](https://github.com/Liu-Lan-lab/Correction-Bian-et-al-Nature-2020/blob/master/wrong_image.jpg?raw=true)
+
 
 Fig.2|The correction version of figure 1b in the paper.
 
 
-
-![image](https://github.com/Liu-Lan-lab/Correction-Bian-et-al-Nature-2020/blob/master/right_image.png?raw=true)
+![image](https://github.com/Liu-Lan-lab/Correction-Bian-et-al-Nature-2020/blob/master/right_image.jpg?raw=true)
 
